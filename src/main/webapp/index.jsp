@@ -3,7 +3,8 @@
 <title> Welcome to Deployment Day </title>
 </head>
 <body>
-<h1> Codingwale Vaijapur</h1>
-<a href="About.jsp"> About Page</a>
+<h1> Hello world</h1>
+
+<h2>1.0.0 lived</h2>
 </body>
 </html>
