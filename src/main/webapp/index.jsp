@@ -5,6 +5,6 @@
 <body>
 <h1> Hello world</h1>
 
-<h2>3.0.0 lived</h2>
+<h2>2.0.0 lived</h2>
 </body>
 </html>
